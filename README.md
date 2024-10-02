@@ -11,6 +11,6 @@ This is a Customer Relationship Management (CRM) system developed using Django. 
 
 ## Tech Stack
 - **Backend Framework**: Django
-- **Frontend**: HTML, CSS, Bootstrap
+- **Frontend**: HTML, CSS, TailwindCSS
 - **Database**: SQLite (or any other database supported by Django)
 - **Additional Libraries**: Django Rest Framework (for API support), Pandas (for data handling)
